@@ -44,7 +44,6 @@ int main() {
 		cout << "The data has duplicates" << endl;
 	else
 		cout << "The data does not have duplicates" << endl;
-
 }
 
 bool is_sorted_increasing(int int_array[6]) { 
